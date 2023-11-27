@@ -4,8 +4,6 @@
 <img align="center" alt="Coding" width="400" src="https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikiwahyudi11&label=Profile%20views&color=0e75b6&style=flat" alt="dikiwahyudi11" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dikiwahyudi11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikiwahyudi11" height="30" width="40" /></a>
