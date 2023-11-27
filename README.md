@@ -1,7 +1,6 @@
 [![MasterHead](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)](https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg)
 <h1 align="center">Hi 👋, I'm Diki Wahyudi</h1>
 <h3 align="center">I’m passionate about data analytics, data science, and machine learning. I’m currently exploring different machine learning algorithms and working on some projects to apply what I’ve learned. Check out my repositories to see some of my work!</h3>
-<img align="center" alt="Coding" width="400" src="https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
