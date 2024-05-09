@@ -1,6 +1,6 @@
-[![MasterHead](https://abeyon.com/wp-content/uploads/2018/11/0-845x321.png)
+![MasterHead](https://abeyon.com/wp-content/uploads/2018/11/0-845x321.png)
 <h1 align="center">Hi 👋, I'm Diki Wahyudi</h1>
-<h3 align="center">I’m passionate about data analytics, data science, and machine learning. I’m currently exploring different machine learning algorithms and working on some projects to apply what I’ve learned. Check out my repositories to see some of my work!</h3>
+<h3 align="center">I’m passionate about data analytics, data science, and machine learning. I’m currently exploring different deep learning algorithms and working on some projects to apply what I’ve learned. Check out my repositories to see some of my work!</h3>
 
 
 <h3 align="left">Connect with me:</h3>
