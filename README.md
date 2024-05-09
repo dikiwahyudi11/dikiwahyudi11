@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fabeyon.com%2Fhow-do-machines-learn%2F&psig=AOvVaw3VbodjbRuhVC4KYimZdzC9&ust=1715347762536000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDymMvWgIYDFQAAAAAdAAAAABAE)
+[![MasterHead](https://abeyon.com/wp-content/uploads/2018/11/0-845x321.png)
 <h1 align="center">Hi 👋, I'm Diki Wahyudi</h1>
 <h3 align="center">I’m passionate about data analytics, data science, and machine learning. I’m currently exploring different machine learning algorithms and working on some projects to apply what I’ve learned. Check out my repositories to see some of my work!</h3>
 
